@@ -58,3 +58,15 @@ Scripture references give the book, chapter and verse only. Wording in feedback 
 - [ ] **p1s3-magistrate-01**: CCC 2266 is summarised as: a just penalty that redresses the disorder, protects the public and helps the offender reform. Textbooks use the terms retribution, deterrence, protection and reformation; check that the matching is acceptable.
 - [ ] **p1s3-capital-humanist-01**: the claim that many Humanists oppose capital punishment on human rights grounds. Humanists UK opposes the death penalty (please confirm).
 - [ ] Other references used: Luke 12:13-15; Matthew 5:9; Matthew 5:23-24; Matthew 5:38-39; Matthew 6:12; Matthew 18:21-22; Colossians 3:13; Luke 10:25-37; Matthew 25:35-40; James 3:5-10; Psalm 34:18; CCC 821, 1459, 2302, 2304-2306, 2447, 2843. Nothing is quoted directly.
+
+## Stage 2: Paper 1 Section 4
+
+- [ ] **p1s4-rights-basis-01**: the Universal Declaration of Human Rights (1948). Check CCC 1929-1933 (respect for the human person). The term 'legal positivism' is used in a wrong-option note.
+- [ ] **p1s4-refugees-01**: CCC 2241 (more prosperous nations should welcome foreigners as far as they are able; authorities may set conditions). Leviticus 19:33-34 and Matthew 25:35.
+- [ ] **p1s4-workers-rights-01**: Rerum Novarum (Pope Leo XIII, 1891), and CCC 2428 and 2434 (a just wage). The mention of trade unions is a simplification of the Church's support for workers' associations.
+- [ ] **p1s4-women-leadership-01**: the claim that women chair parish councils, lead schools and work in dioceses is general knowledge. Only ordination (deacon, priest, bishop) is reserved to men.
+- [ ] **p1s4-racism-family-01** and **p1s4-football-racism-01**: CCC 1934-1935 (equal dignity; discrimination is incompatible with God's design); Acts 10:34-35.
+- [ ] **p1s4-interfaith-eid-01**: Nostra Aetate (1965) says the Church rejects nothing that is true and holy in other religions, and speaks with esteem of Muslims. The feedback paraphrases this. Check CCC 841-843.
+- [ ] **p1s4-ecumenism-communion-01**: CCC 1400 (Eucharistic intercommunion with Reformation communities is not possible). Sharing communion in rare, exceptional cases (for example, danger of death) is not mentioned. The note that 'many Anglicans welcome all baptised Christians to communion' is a generalisation.
+- [ ] **p1s4-mixed-faith-marriage-01**: CCC 1633-1637 (mixed marriages and 'disparity of cult'). Permission is properly called a 'dispensation'. The Catholic partner's promise is to do all they can to have children baptised and raised Catholic (canon 1125). The game words this simply.
+- [ ] Other references used: Galatians 3:28; Revelation 7:9; Matthew 25:31-46; James 2:15-16; Amos 5:24; John 17:21; CCC 820-821, 830-831, 2443-2449. Nothing is quoted directly.
