@@ -20,3 +20,15 @@ Scripture references give the book, chapter and verse only. Wording in feedback 
 - [ ] **p1s1-stewardship-01**: Laudato Si' (2015), Pope Francis. Its description of the Earth as "our common home" is paraphrased, not quoted.
 - [ ] **p2s1-conscience-01**: "many Baptists" hold sola scriptura. This is a broad generalisation.
 - [ ] **p2s3-altar-01**: the claims that "many Protestant churches put the pulpit at the centre" and that Quaker meeting houses are plain are both generalisations.
+
+## Stage 2: Paper 1 Section 1
+
+- [ ] **p1s1-creation-science-01**: Fr Georges Lemaître, a Belgian Catholic priest, first proposed what became the Big Bang theory (1927). I am confident of this, but it should be checked before it is taught. Also check CCC 159 and 282-289.
+- [ ] **p1s1-reincarnation-01**: the wrong-option note says 'soul sleep' is held by Seventh-day Adventists. Check CCC 1013 and 1021-1022 for one earthly life and immediate judgment.
+- [ ] **p1s1-trinity-01**: the wrong-option note says the Arian view is close to Jehovah's Witnesses' beliefs. This is a simplification, and should be worded sensitively.
+- [ ] **p1s1-predestination-01**: the wrong-option note says double predestination is "close to the view of John Calvin, held in some Reformed churches". This is a simplification. 'Open theism' is labelled as a minority Protestant view.
+- [ ] **p1s1-ignorance-01**: CCC 1857-1860 (conditions for mortal sin; ignorance can reduce responsibility). Check that the paragraph numbers match.
+- [ ] **p1s1-doubt-01**: CCC 2088 (voluntary and involuntary doubt) and CCC 162 (perseverance in faith).
+- [ ] **p1s1-unbelief-01**: CCC 847 (those who, through no fault of their own, do not know Christ). The wording is a simplification.
+- [ ] **p1s1-freewill-fate-01**: Sirach 15:14-15 (God left humans in the power of their own free choice). This book is in Catholic Bibles but not in most Protestant ones.
+- [ ] Other references used: Genesis 1:27; 2:7; Luke 12:15; Luke 13:1-5; Luke 15:11-32; Romans 3:23; 1 Timothy 2:4; Psalm 139:1-4; Matthew 10:29-31; Matthew 28:19; Mark 9:24; Hebrews 9:27; Exodus 20:15; 1 Corinthians 6:19-20. The game gives these references only; it does not quote them.
