@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#1a1428">
+  <meta name="description" content="The Confessional: a pixel-art revision game for Edexcel International GCSE Religious Studies (4RS1) Christianity.">
+  <meta name="format-detection" content="telephone=no">
+  <title>The Confessional | RS revision game</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main class="app" id="app">
+
+    <!-- ============ START SCREEN ============ -->
+    <section class="screen screen-start" id="screen-start" aria-labelledby="title-heading">
+      <header class="title-card card card-glass">
+        <h1 id="title-heading" class="visually-hidden">The Confessional</h1>
+        <div class="title-art">
+          <canvas id="title-canvas" role="img" aria-label="The Confessional. Pixel-art title with two flickering candles."></canvas>
+        </div>
+        <p class="tagline">A revision game for Edexcel International GCSE Religious Studies: Christianity</p>
+      </header>
+
+      <section class="card card-cream intro" aria-labelledby="how-heading">
+        <h2 class="label" id="how-heading">How to play</h2>
+        <p>You are a <strong>Catholic parish priest</strong>. People come to the confessional with a problem. Choose the advice that best matches <strong>Catholic teaching</strong>.</p>
+        <p>The other answers can sound kind or sensible. Often they are what other Christians, Humanists or atheists might say. A wrong answer snuffs out a candle. If all three candles go out, the bishop will come to see you!</p>
+      </section>
+
+      <section class="card card-glass" aria-labelledby="diff-heading">
+        <h2 class="label" id="diff-heading">Difficulty</h2>
+        <div class="choice-grid choice-grid-3" id="difficulty-group" role="group" aria-labelledby="diff-heading">
+          <button type="button" class="choice" data-difficulty="novice" aria-pressed="false">
+            <span class="choice-title">Novice</span>
+            <span class="choice-desc">Wrong answers are easier to spot.</span>
+          </button>
+          <button type="button" class="choice" data-difficulty="priest" aria-pressed="true">
+            <span class="choice-title">Priest</span>
+            <span class="choice-desc">A mix of easy and tricky dilemmas.</span>
+          </button>
+          <button type="button" class="choice" data-difficulty="bishop" aria-pressed="false">
+            <span class="choice-title">Bishop</span>
+            <span class="choice-desc">Wrong answers are subtle half-truths.</span>
+          </button>
+        </div>
+      </section>
+
+      <section class="card card-glass" aria-labelledby="section-heading">
+        <h2 class="label" id="section-heading">Choose a section</h2>
+        <div class="choice-grid" id="section-group" role="group" aria-labelledby="section-heading"></div>
+      </section>
+
+      <p class="notice" id="no-dilemmas" hidden>No dilemmas were found. Check that the files in js/dilemmas/ are listed in index.html.</p>
+
+      <div class="start-actions">
+        <button type="button" class="btn btn-primary btn-big" id="btn-begin">Begin</button>
+        <button type="button" class="btn btn-ghost" id="btn-settings-start">
+          <svg class="icon" viewBox="0 0 9 9" aria-hidden="true" focusable="false" shape-rendering="crispEdges"><path d="M3 0h3v1h1v1h1v1h1v3h-1v1h-1v1h-1v1h-3v-1h-1v-1h-1v-1h-1v-3h1v-1h1v-1h1zM3 3v3h3v-3z"/></svg>
+          Settings
+        </button>
+      </div>
+      <p class="best" id="best-score"></p>
+      <p class="small-print">No logins, no tracking. Nothing you do here leaves your device.</p>
+    </section>
+
+    <!-- ============ GAME SCREEN ============ -->
+    <section class="screen screen-game" id="screen-game" aria-label="The confessional" hidden>
+      <header class="hud card card-glass">
+        <div class="hud-candles">
+          <span class="label">Strikes</span>
+          <canvas id="candles-canvas" role="img" aria-label="3 of 3 candles lit. 0 strikes."></canvas>
+        </div>
+        <dl class="hud-stats">
+          <div><dt>Score</dt><dd id="hud-score">0</dd></div>
+          <div><dt>Streak</dt><dd id="hud-streak">0</dd></div>
+          <div><dt>Dilemma</dt><dd id="hud-count">1 / 1</dd></div>
+        </dl>
+        <div class="hud-buttons">
+          <button type="button" class="icon-btn" id="btn-settings-game" aria-label="Settings" title="Settings">
+            <svg class="icon" viewBox="0 0 9 9" aria-hidden="true" focusable="false" shape-rendering="crispEdges"><path d="M3 0h3v1h1v1h1v1h1v3h-1v1h-1v1h-1v1h-3v-1h-1v-1h-1v-1h-1v-3h1v-1h1v-1h1zM3 3v3h3v-3z"/></svg>
+          </button>
+          <button type="button" class="icon-btn" id="btn-quit" aria-label="Leave this game" title="Leave this game">
+            <svg class="icon" viewBox="0 0 9 9" aria-hidden="true" focusable="false" shape-rendering="crispEdges"><path d="M1 0h7v8h1v1h-9v-1h1zM2 1v7h5v-7zM5 4h1v1h-1z"/></svg>
+          </button>
+        </div>
+      </header>
+
+      <p class="notice" id="deck-note" hidden></p>
+
+      <div class="game-layout" id="game-layout">
+        <div class="stage card card-glass">
+          <div class="scene-wrap">
+            <canvas id="scene-canvas" role="img" aria-label="The confessional."></canvas>
+          </div>
+        </div>
+
+        <div class="play">
+          <article class="card card-cream dilemma" id="dilemma-card">
+            <p class="tag" id="dilemma-tag"></p>
+            <h2 class="penitent-name" id="penitent-name" tabindex="-1"></h2>
+            <p class="scene-text" id="scene-text"></p>
+          </article>
+
+          <div class="options" id="options" role="group" aria-label="Your advice"></div>
+
+          <section class="card card-cream feedback" id="feedback" aria-labelledby="feedback-heading" hidden>
+            <div class="feedback-head">
+              <canvas id="michael-canvas" role="img" aria-label="Father Michael, a kind older priest with round glasses and a mug of tea."></canvas>
+              <div>
+                <p class="label label-ink">Father Michael says</p>
+                <h3 class="feedback-heading" id="feedback-heading" tabindex="-1"></h3>
+              </div>
+            </div>
+            <div class="feedback-body selectable" id="feedback-body"></div>
+            <p class="spec-ref selectable" id="feedback-spec"></p>
+            <ul class="key-terms selectable" id="feedback-terms" aria-label="Key terms"></ul>
+            <p class="sources selectable" id="feedback-sources" hidden></p>
+            <button type="button" class="btn btn-primary btn-wide" id="btn-next">Next penitent</button>
+          </section>
+
+          <div class="visually-hidden" aria-live="polite" id="live"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============ END SCREEN ============ -->
+    <section class="screen screen-end" id="screen-end" aria-labelledby="end-heading" hidden>
+      <section class="card card-glass end-hero">
+        <div class="scene-wrap">
+          <canvas id="end-canvas" role="img" aria-label="The church door."></canvas>
+        </div>
+        <h2 class="end-heading" id="end-heading" tabindex="-1"></h2>
+        <p class="end-message" id="end-message"></p>
+        <dl class="end-stats" id="end-stats"></dl>
+      </section>
+
+      <section class="card card-cream report selectable" aria-labelledby="report-heading">
+        <h2 class="report-heading" id="report-heading">Revision report</h2>
+        <div id="report-body"></div>
+      </section>
+
+      <div class="end-actions">
+        <button type="button" class="btn btn-primary btn-big" id="btn-again">Play again</button>
+        <button type="button" class="btn btn-ghost" id="btn-home">Change options</button>
+      </div>
+    </section>
+  </main>
+
+  <!-- ============ SETTINGS MODAL ============ -->
+  <div class="modal" id="modal-settings" role="dialog" aria-modal="true" aria-labelledby="settings-title" hidden>
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-card card card-cream">
+      <h2 class="modal-title" id="settings-title">Settings</h2>
+      <div class="setting-row">
+        <span class="setting-label" id="lbl-sound">Sound<small>Soft sound effects. Off by default.</small></span>
+        <button type="button" class="switch" id="set-sound" role="switch" aria-checked="false" aria-labelledby="lbl-sound"><span class="switch-track"><span class="switch-knob"></span></span><span class="switch-state">Off</span></button>
+      </div>
+      <div class="setting-row">
+        <span class="setting-label" id="lbl-motion">Reduce motion<small>Turns off flickering, blinking and shaking.</small></span>
+        <button type="button" class="switch" id="set-motion" role="switch" aria-checked="false" aria-labelledby="lbl-motion"><span class="switch-track"><span class="switch-knob"></span></span><span class="switch-state">Off</span></button>
+      </div>
+      <div class="setting-row">
+        <span class="setting-label" id="lbl-text">Larger text<small>Makes all the writing bigger.</small></span>
+        <button type="button" class="switch" id="set-text" role="switch" aria-checked="false" aria-labelledby="lbl-text"><span class="switch-track"><span class="switch-knob"></span></span><span class="switch-state">Off</span></button>
+      </div>
+      <button type="button" class="btn btn-primary btn-wide" data-close data-autofocus>Done</button>
+    </div>
+  </div>
+
+  <!-- ============ LEAVE GAME MODAL ============ -->
+  <div class="modal" id="modal-quit" role="dialog" aria-modal="true" aria-labelledby="quit-title" hidden>
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-card card card-cream">
+      <h2 class="modal-title" id="quit-title">Leave this game?</h2>
+      <p>Your score for this game will not be kept.</p>
+      <div class="modal-actions">
+        <button type="button" class="btn btn-primary" data-close data-autofocus>Keep playing</button>
+        <button type="button" class="btn btn-ghost-ink" id="btn-quit-confirm">Leave</button>
+      </div>
+    </div>
+  </div>
+
+  <noscript><p class="notice">The Confessional needs JavaScript switched on to play.</p></noscript>
+
+  <!-- Content map, pixel art, then the dilemma banks, then the engine. -->
+  <script src="js/spec.js"></script>
+  <script src="js/sprites.js"></script>
+  <script src="js/dilemmas/p1-s1.js"></script>
+  <script src="js/dilemmas/p1-s2.js"></script>
+  <script src="js/dilemmas/p1-s3.js"></script>
+  <script src="js/dilemmas/p1-s4.js"></script>
+  <script src="js/dilemmas/p2-s1.js"></script>
+  <script src="js/dilemmas/p2-s2.js"></script>
+  <script src="js/dilemmas/p2-s3.js"></script>
+  <script src="js/game.js"></script>
+</body>
+</html>
