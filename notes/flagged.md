@@ -22,3 +22,8 @@ No Stage 1 sample dilemmas were dropped. Two areas to watch in later stages:
 - **Divorced and remarried Catholics and Communion (2.6).** As in Stage 1, this is avoided. *p1s2-remarriage-01* tests only that remarriage is not recognised, and that the person is still part of the Church.
 - **Animals and heaven (1.2).** A dilemma asking whether a pet goes to heaven was **not written**, because Catholic teaching does not give a defined answer. *p1s1-soul-unique-01* tests only what makes humans unique.
 - **Caring for elderly parents (2.7).** Whether to care for a parent at home or in a care home depends on circumstances. The dilemma makes the clearly Catholic answer the one that respects this, rather than insisting on one option.
+
+## Stage 2: Paper 1 Section 3
+
+- **Just War today (3.1).** As planned, *p1s3-just-war-01* tests only the traditional principle that just self-defence is allowed, and that soldiers must refuse clearly evil orders. It makes no claim about modern wars or nuclear deterrence. Pope Francis has questioned whether any modern war can be 'just'. That is a live debate, so it is not tested.
+- **Restorative justice (3.5).** The Catholic Church has no single official position on restorative justice schemes. The dilemma therefore tests the clear principle that reformation is an aim of punishment, with taking part left as the victim's free choice.

@@ -47,3 +47,14 @@ Scripture references give the book, chapter and verse only. Wording in feedback 
 - [ ] **p1s2-ivf-01** and **p1s2-genetic-engineering-01**: CCC 2374-2379 and Dignitas Personae (2008), which allows somatic gene therapy and opposes enhancement and the destruction of embryos. Check that the simplified wording is acceptable.
 - [ ] **p1s2-purposes-marriage-01**: at a Catholic wedding the couple are asked whether they will accept children lovingly from God. This is a paraphrase of the Rite of Marriage.
 - [ ] Other references used: 1 Corinthians 15:42-44; Ephesians 2:8-10; James 2:14-17; Mark 1:15; Luke 17:20-21; John 18:36; Luke 23:39-43; Mark 10:6-12; Genesis 1:28; Exodus 20:12; Matthew 19:12; 1 Corinthians 7:32-35. The single word 'dead' from James 2:17 is the only quotation.
+
+## Stage 2: Paper 1 Section 3
+
+- [ ] **p1s3-just-war-01**: CCC 2307-2314 (legitimate defence; Just War conditions in CCC 2309; soldiers as servants of peace in CCC 2310; refusing evil orders in CCC 2313). Quakers are named as pacifists. The feedback lists the Just War conditions in simplified form; check them against your textbook's list.
+- [ ] **p1s3-holy-war-01**: the feedback says Pope John Paul II asked forgiveness in 2000 for wrongs done by Christians in the past (the Day of Pardon, March 2000). Please check.
+- [ ] **p1s3-peace-group-01**: Pax Christi is described as an international Catholic peace movement (founded in France in 1945) that works through prayer, education and action, including campaigning against nuclear weapons. The specification allows any Christian peace group; check that Pax Christi matches the one your course teaches.
+- [ ] **p1s3-prison-fellowship-01** and **p1s3-street-pastors-01**: both organisations are named in the specification. The descriptions are deliberately general: Prison Fellowship is a Christian charity supporting prisoners and their families, and Street Pastors is an interdenominational scheme of volunteers caring for people at night. Check that they match your textbook.
+- [ ] **p1s3-sin-crime-01**: Acts 5:29 (obeying God rather than human authority); CCC 1902-1903 (an unjust law does not bind conscience). This is simplified.
+- [ ] **p1s3-magistrate-01**: CCC 2266 is summarised as: a just penalty that redresses the disorder, protects the public and helps the offender reform. Textbooks use the terms retribution, deterrence, protection and reformation; check that the matching is acceptable.
+- [ ] **p1s3-capital-humanist-01**: the claim that many Humanists oppose capital punishment on human rights grounds. Humanists UK opposes the death penalty (please confirm).
+- [ ] Other references used: Luke 12:13-15; Matthew 5:9; Matthew 5:23-24; Matthew 5:38-39; Matthew 6:12; Matthew 18:21-22; Colossians 3:13; Luke 10:25-37; Matthew 25:35-40; James 3:5-10; Psalm 34:18; CCC 821, 1459, 2302, 2304-2306, 2447, 2843. Nothing is quoted directly.
