@@ -15,3 +15,10 @@ No Stage 1 sample dilemmas were dropped. Two areas to watch in later stages:
 - **Just War today (P1 3.1).** Recent popes have questioned whether modern warfare can meet the Just War conditions. Questions will test the traditional criteria, without claiming a fixed verdict on any modern war.
 - **Evolution and creation (P1 1.1).** Catholic teaching accepts that evolution can be compatible with faith, but there is no single official view on the details. Questions will avoid the details.
 - **Genetic engineering (P1 2.8).** The Church distinguishes therapy from enhancement and from methods that destroy embryos. Questions will stick to these clear distinctions.
+
+## Stage 2: Paper 1 Section 2
+
+- **Same-sex relationships (2.4, 2.5).** The two dilemmas test only clear points: respect and anti-bullying (CCC 2358), and the Church's definition of marriage. They do not test the 2023 document *Fiducia Supplicans*, whose interpretation varies.
+- **Divorced and remarried Catholics and Communion (2.6).** As in Stage 1, this is avoided. *p1s2-remarriage-01* tests only that remarriage is not recognised, and that the person is still part of the Church.
+- **Animals and heaven (1.2).** A dilemma asking whether a pet goes to heaven was **not written**, because Catholic teaching does not give a defined answer. *p1s1-soul-unique-01* tests only what makes humans unique.
+- **Caring for elderly parents (2.7).** Whether to care for a parent at home or in a care home depends on circumstances. The dilemma makes the clearly Catholic answer the one that respects this, rather than insisting on one option.

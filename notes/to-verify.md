@@ -32,3 +32,18 @@ Scripture references give the book, chapter and verse only. Wording in feedback 
 - [ ] **p1s1-unbelief-01**: CCC 847 (those who, through no fault of their own, do not know Christ). The wording is a simplification.
 - [ ] **p1s1-freewill-fate-01**: Sirach 15:14-15 (God left humans in the power of their own free choice). This book is in Catholic Bibles but not in most Protestant ones.
 - [ ] Other references used: Genesis 1:27; 2:7; Luke 12:15; Luke 13:1-5; Luke 15:11-32; Romans 3:23; 1 Timothy 2:4; Psalm 139:1-4; Matthew 10:29-31; Matthew 28:19; Mark 9:24; Hebrews 9:27; Exodus 20:15; 1 Corinthians 6:19-20. The game gives these references only. The short phrase "temple of the Holy Spirit" (1 Corinthians 6:19) is common to most English translations; nothing else is quoted.
+
+## Stage 2: Paper 1 Section 2
+
+- [ ] **p1s2-purgatory-01**: 2 Maccabees 12:44-46 (praying for the dead) is in Catholic Bibles but not in most Protestant ones. Check CCC 1030-1032.
+- [ ] **p1s2-hell-01**: CCC 1033-1037 (hell as self-exclusion; God predestines no one to hell).
+- [ ] **p1s2-faith-works-01**: 'sola fide' is a simplified label for the Protestant position. Lutheran-Catholic dialogue (the 1999 Joint Declaration on the Doctrine of Justification) found much common ground. Check CCC 1987 and 2007-2011.
+- [ ] **p1s2-abortion-01**: Jeremiah 1:5 is used as support for the sanctity of life before birth. Check CCC 2270-2275. The scene deliberately avoids mentioning any time limits or legal details.
+- [ ] **p1s2-same-sex-respect-01**: CCC 2358 says people with same-sex attraction must be accepted with "respect, compassion and sensitivity". The feedback paraphrases this.
+- [ ] **p1s2-same-sex-marriage-01**: the wrong-option note says the Methodist Church in Britain conducts same-sex weddings (it voted to allow them in 2021). Please check. The game avoids the 2023 document *Fiducia Supplicans* on blessings, because its interpretation is debated.
+- [ ] **p1s2-separation-safety-01**: CCC 2383 (separation can be legitimate; civil divorce may be tolerated). The feedback directs the person to the police or a domestic abuse service. Check that this suits your school's safeguarding guidance.
+- [ ] **p1s2-remarriage-01**: CCC 1650-1651 (the divorced and remarried are not separated from the Church). The question deliberately avoids receiving Communion.
+- [ ] **p1s2-contraception-01**: Humanae Vitae (1968). The Anglican Lambeth Conference accepted contraception in some circumstances in 1930.
+- [ ] **p1s2-ivf-01** and **p1s2-genetic-engineering-01**: CCC 2374-2379 and Dignitas Personae (2008), which allows somatic gene therapy and opposes enhancement and the destruction of embryos. Check that the simplified wording is acceptable.
+- [ ] **p1s2-purposes-marriage-01**: at a Catholic wedding the couple are asked whether they will accept children lovingly from God. This is a paraphrase of the Rite of Marriage.
+- [ ] Other references used: 1 Corinthians 15:42-44; Ephesians 2:8-10; James 2:14-17; Mark 1:15; Luke 17:20-21; John 18:36; Luke 23:39-43; Mark 10:6-12; Genesis 1:28; Exodus 20:12; Matthew 19:12; 1 Corinthians 7:32-35. The single word 'dead' from James 2:17 is the only quotation.
