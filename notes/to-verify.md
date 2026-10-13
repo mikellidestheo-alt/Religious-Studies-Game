@@ -92,3 +92,19 @@ Scripture references give the book, chapter and verse only. Wording in feedback 
 - [ ] **p2s2-easter-01**: the Ascension is celebrated forty days after Easter (Acts 1:3). Some countries move it to the following Sunday.
 - [ ] **p2s2-advent-01**: Advent is the four weeks before Christmas and the start of the liturgical year.
 - [ ] Other references used: Isaiah 9:2-7; Luke 2:1-20; Matthew 2:1-12; Mark 11:1-11; Mark 14-16; John 19:16-42; 1 Corinthians 15:3-4; James 5:14-15; CCC 524-528, 1168-1169, 2691.
+
+## Stage 2: Paper 2 Section 3
+
+- [ ] **p2s3-real-presence-01**: the wrong-option notes say most Baptists hold a memorial view of communion, and that Lutherans hold Christ is present together with the bread. The scene paraphrases the Lutheran formula 'in, with and under'. Check CCC 1374-1376 (transubstantiation).
+- [ ] **p2s3-funeral-ashes-01**: the Church has allowed cremation since 1963. The 2016 instruction *Ad resurgendum cum Christo* (Congregation for the Doctrine of the Faith) asks that ashes be kept in a sacred place, not scattered, divided or kept at home. Check CCC 2300-2301.
+- [ ] **p2s3-wedding-rite-01**: in the Latin Church the spouses are the ministers of the sacrament (CCC 1623), and the priest or deacon receives their consent for the Church. Marrying outside a church needs permission ('canonical form'). The wording is simplified.
+- [ ] **p2s3-adult-baptism-01**: 'RCIA' (Rite of Christian Initiation of Adults). Some countries now call it 'OCIA' (Order of Christian Initiation of Adults). Use the term your school uses.
+- [ ] **p2s3-sunday-mass-01**: a Saturday evening Vigil Mass fulfils the Sunday obligation (canon 1248). Check CCC 2180-2181.
+- [ ] **p2s3-lectern-01**: the Gospel at Mass is read by a priest or deacon, and lay readers read the other readings. Check CCC 1088 (Christ present when the Scriptures are read).
+- [ ] **p2s3-types-prayer-01**: the forms of prayer listed (adoration or praise, thanksgiving, sorrow, petition and intercession) follow CCC 2626-2643, with sorrow added. Check the list against your textbook's terms.
+- [ ] Other references used: 1 Corinthians 1:18-23; John 6:51-58; 1 Corinthians 11:23-26; Matthew 6:9-13; Matthew 7:7; Exodus 20:8; Acts 8:14-17; Acts 2:38-41; CCC 1159-1162, 1184-1185, 1213, 1247-1249, 1272, 1285, 1302-1305, 1324, 1349, 1630-1631, 2177-2181, 2700-2704.
+
+## Stage 2: general checks
+
+- [ ] **Penitent names** were chosen for variety and do not refer to real people. 'Mr Haddad senior' (p2s2-jerusalem-01) is deliberately linked to the bakery owner Mr Haddad (p1s4-wealth-01), as a family in the parish.
+- [ ] **Option lengths**: the validator now reports where the correct option ranks by length. After Stage 2 the spread is: longest (tied) 5, 2nd 33, 3rd 44, shortest 31. Players cannot reliably guess by length.

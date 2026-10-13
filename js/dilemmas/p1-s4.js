@@ -109,7 +109,7 @@ window.DILEMMAS.push(
       "Charity begins at home: our own people should always be helped before any strangers.",
       "Countries should have no borders or rules at all, and everyone should be let in.",
       "This is politics, and churches should stay well out of it. It isn't a religious matter.",
-      "Welcoming the stranger is Christian love. We can help both local people and refugees."
+      "Welcome the stranger: we can help local people and refugees alike."
     ],
     correctIndex: 3,
     feedbackCorrect: "Catholics believe every person has the **right** to life and safety, including those fleeing danger. Jesus said that welcoming a stranger is welcoming him (Matthew 25:35), and the Church calls wealthier nations to welcome **refugees** as far as they can. Helping refugees doesn't mean forgetting local people in need: Christian love has room for both.",
@@ -165,7 +165,7 @@ window.DILEMMAS.push(
       "Women's main place is at home, so you shouldn't worry too much about your pay at work.",
       "Equality is a political issue. The Church stays neutral on matters like this one.",
       "Accept it humbly. Fighting for yourself would be selfish and proud for a Christian.",
-      "Men and women have equal dignity, so equal pay for equal work is a matter of justice."
+      "Men and women have equal dignity, so equal pay is a matter of justice."
     ],
     correctIndex: 3,
     feedbackCorrect: "Catholic teaching says men and women are created with **equal dignity** (CCC 2334), so unfair discrimination at work is unjust. The Church supports women's **equal rights** in work and public life. Speaking up for fair pay is not selfish; it is standing up for justice.",

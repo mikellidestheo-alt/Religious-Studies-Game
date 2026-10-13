@@ -32,7 +32,8 @@ A static browser revision game for Edexcel International GCSE RS (4RS1) Christia
 
 - Each dilemma tests one spec content statement. Tag `paper`, `section`, `specRef` and `topic` correctly; `js/spec.js` is the master list.
 - Scenes are 60 words or fewer, in simple English (many players are EAL learners). Options are about 20 words or fewer.
-- The correct option must not be the longest. The validator enforces this.
+- The correct option must not be the longest. The validator enforces this, and reports where the correct option ranks by length; keep that spread even (vary whether it is 2nd longest, 3rd or shortest), so players can't guess by length.
+- Use a different first name for every penitent (the validator does not check this yet).
 - The correct option is the most pastoral, best-reasoned Catholic answer, not just the strictest. Wrong options must be plausible: Protestant, Orthodox, secular or Humanist views, popular opinion, legalistic over-readings, or half-truths. Name the view in `viewsRepresentedByWrongOptions`.
 - Never present one denomination as "the" Christian view. Describe what Catholics believe, not what is true.
 - **Never invent** Bible quotations, Church documents, papal statements, canon law or statistics. Give scripture as book, chapter and verse; if you quote, name the translation. If you are not sure of a reference, leave it out and add it to `notes/to-verify.md`.

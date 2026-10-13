@@ -79,7 +79,7 @@ window.DILEMMAS.push(
     penitent: "Joseph, Year 8 student",
     scene: "My grandad died last month. At the funeral, people said he's an angel now, watching over me. My friend from a different church says praying for him is pointless, because his fate was sealed when he died. Is Grandad in heaven? Should I pray for him?",
     options: [
-      "When you die, you simply stop existing. Grandad lives on only in your memories now.",
+      "When you die, you simply stop existing. Grandad lives on now only in your memories of him.",
       "He has become an angel, and now he's watching over you from up in the sky.",
       "Praying for him is pointless, because everyone's fate is completely sealed at the moment they die.",
       "Trust him to God's mercy, and pray for him: the dead may need purifying before heaven."
@@ -163,7 +163,7 @@ window.DILEMMAS.push(
     scene: "My friend at an evangelical church says we're saved by faith alone, so good works make no difference to God. My uncle says that if you do enough good deeds, you earn your place in heaven. They can't both be right. What does the Catholic Church teach?",
     options: [
       "We're saved by faith alone, so any good works that you do make no difference at all to God.",
-      "If you do enough good deeds in your life, you will earn yourself a place in heaven.",
+      "If you do enough good deeds during your life, then you will earn yourself a place in heaven.",
       "Salvation is a free gift of grace, received in faith, and real faith shows itself in love.",
       "Being a good person is all that matters in the end. What you believe is up to you."
     ],
@@ -248,7 +248,7 @@ window.DILEMMAS.push(
       "It's her body, so it's entirely her choice. Faith shouldn't have anything to say about it.",
       "Life begins at conception, so abortion is wrong. Support her with love and practical help.",
       "Abortion is acceptable because the law allows it, so legally it's not a moral question at all.",
-      "Tell her that abortion is murder, and stop speaking to her until she changes her mind."
+      "Tell her that abortion is murder, and stop speaking to her until she finally changes her mind."
     ],
     correctIndex: 1,
     feedbackCorrect: "Catholics believe in the **sanctity of life** from **conception**, so **abortion** is seen as gravely wrong. But the Church also teaches deep compassion: your sister needs love, practical support and hope, not judgment. Many Catholic charities help women in her situation, during pregnancy and afterwards.",
@@ -275,7 +275,7 @@ window.DILEMMAS.push(
       "When someone no longer knows who they are or who you are, their life has lost most of its value.",
       "Every life is sacred, whatever its quality, because it's God's gift. Keep caring for him.",
       "Only God decides, so you should never use any medicine to ease his symptoms.",
-      "His life only matters as long as he can still do something useful for the family."
+      "His life only really matters for as long as he can still do something useful for the family."
     ],
     correctIndex: 1,
     feedbackCorrect: "Catholics believe in the **sanctity of life**: every human life is a gift from God and keeps its **dignity**, whatever its **quality** or abilities. Your love and care for your dad, and good medical and **palliative care**, honour that dignity. Feeling worn out is normal, so look for support too.",
@@ -331,7 +331,7 @@ window.DILEMMAS.push(
       "Go along with them, so you don't stand out. Fitting in matters a lot at your age.",
       "Relationships are a distraction, so Christians shouldn't really date anyone at all.",
       "Waiting is really old-fashioned now. Sex is just a normal part of growing up, at whatever age.",
-      "Chastity isn't weird: it's respect for yourself and others. True friends accept that."
+      "Chastity is respect for yourself and others. True friends will accept it."
     ],
     correctIndex: 3,
     feedbackCorrect: "Catholics believe **chastity** means respecting yourself and others, and keeping sex for marriage. It is a positive choice about how to love, not something to be embarrassed about. Good **relationships** and friendships are based on respect, and true friends will accept your choice.",
@@ -441,7 +441,7 @@ window.DILEMMAS.push(
       "Since the law now allows same-sex marriage, the Catholic Church will soon have to allow it as well.",
       "The Church teaches marriage is between a man and a woman, but Dan deserves love and respect.",
       "Some churches hold same-sex weddings, so Catholic teaching must allow it as well.",
-      "You should avoid Dan, so that no one thinks your family approves of his relationship."
+      "You should avoid Dan for now, so that no one thinks your family approves of his relationship."
     ],
     correctIndex: 1,
     feedbackCorrect: "Catholic teaching says **marriage** is a lifelong union between a man and a woman, open to children, so the Church does not celebrate **same-sex marriages**. It also teaches that gay people must be treated with **respect** and compassion. Loving and supporting Dan as your cousin is right.",
@@ -495,7 +495,7 @@ window.DILEMMAS.push(
     scene: "My dad divorced my mum years ago. Last summer he married his new partner at a register office. Someone at school said that means Dad isn't allowed to be a Catholic any more, and can't come to church. Is that true?",
     options: [
       "That's true. Remarrying after divorce means he's no longer a Catholic and can't come to church.",
-      "Remarrying is fine as long as his first marriage was unhappy. Nothing has changed.",
+      "Remarrying is fine as long as his first marriage was an unhappy one. Nothing has really changed.",
       "In Catholic eyes, his new civil marriage is just as valid as any church wedding.",
       "The Church doesn't recognise his new marriage while the first stands, but he's still welcome."
     ],
@@ -608,7 +608,7 @@ window.DILEMMAS.push(
     options: [
       "The Church doesn't accept IVF, but supports treatment for natural conception, and adoption.",
       "Any method of having a baby is fine, because wanting a child is always a good and loving desire.",
-      "Being childless is a punishment from God, so you should quietly accept it and move on.",
+      "Being childless is a punishment from God, so you should quietly accept it and try to move on.",
       "If you can't have children, your marriage isn't complete in the eyes of the Church."
     ],
     correctIndex: 0,
@@ -636,7 +636,7 @@ window.DILEMMAS.push(
       "It's a private decision, and the Church has no business in your bedroom.",
       "Many other churches accept contraception, so married Catholics are free to use it too.",
       "Have as many children as God sends. Planning your family in any way is selfish.",
-      "Artificial contraception isn't accepted, but natural family planning can be used."
+      "Not artificial contraception, but natural family planning is allowed."
     ],
     correctIndex: 3,
     feedbackCorrect: "Catholic teaching (Humanae Vitae, 1968) says **artificial contraception** is wrong, because sex in marriage should stay open to new life. But the Church supports **responsible parenthood**: for serious reasons, couples may use **natural family planning**, which works with the natural cycle of fertility. Your concern to care well for your family is a good one.",

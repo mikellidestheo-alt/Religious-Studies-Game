@@ -165,7 +165,7 @@ window.DILEMMAS.push(
       "You must forgive him straight away and forget it ever happened, or God won't forgive you either.",
       "Some things can never be forgiven, and hating him is natural in a case like this.",
       "Forgiving him means the court should let him go free without any punishment.",
-      "Forgiveness is a journey that doesn't cancel justice. Ask God for the grace to begin."
+      "Forgiveness is a journey, and it doesn't cancel justice. Ask for grace."
     ],
     correctIndex: 3,
     feedbackCorrect: "Catholics believe Jesus calls us to **forgive**, as we pray in the Lord's Prayer and as Jesus taught Peter: not seven times, but seventy-seven times (Matthew 18:21-22). But forgiveness is often a slow journey, and it does not mean forgetting, or cancelling **justice**. You can ask God for the grace to forgive, one step at a time.",
@@ -217,7 +217,7 @@ window.DILEMMAS.push(
     scene: "Our school has a Pax Christi group. We run peace vigils, learn about conflicts around the world and campaign against nuclear weapons. My dad says it's naive, and that Christians should leave peace to politicians. Is working for peace really part of my faith?",
     options: [
       "Peace only matters inside your own heart. Campaigning isn't a Christian's business.",
-      "Real peace only comes when one side wins, so support strong armies and nothing else.",
+      "Real peace only ever comes when one side wins a war, so support strong armies and nothing else.",
       "Yes. Jesus blessed peacemakers, so praying, learning and acting for peace is part of faith.",
       "Only priests and bishops should work for peace. Young laypeople like you should stay out of it."
     ],
@@ -273,7 +273,7 @@ window.DILEMMAS.push(
     scene: "A new girl joined our class. She's a refugee and her English isn't great yet. My friends keep mocking her accent and leaving her out on purpose. I don't join in, but I don't stop them either. Is staying quiet OK?",
     options: [
       "Stay out of it so you don't become a target yourself. It's not really your problem.",
-      "Be kind to her and speak up safely: include her, and tell a teacher what's happening.",
+      "Be kind and speak up safely: include her and tell a teacher.",
       "Confront your friends angrily in front of everyone. Bullies deserve to be humiliated.",
       "Just pray for her quietly. That's the most that a Christian can really be expected to do."
     ],
@@ -441,7 +441,7 @@ window.DILEMMAS.push(
       "Only reformation matters. Offenders should be helped, never actually punished.",
       "Deterrence matters most: the harsher the sentence, the less crime there will be.",
       "Make offenders suffer as much as their victims did. That is what real justice actually means.",
-      "Aim for justice that fits the crime, keeps people safe and helps the offender reform."
+      "Seek justice that fits the crime, protects people and helps reform."
     ],
     correctIndex: 3,
     feedbackCorrect: "Catholic teaching says punishment should fit the crime and repair the harm it caused (**retribution** as justice, never revenge), protect society (**protection**), and help the offender **reform** (CCC 2266). Deterrence can be a part of this, but it is never the only aim. Galatians 6:1-5 reminds Christians to restore wrongdoers gently.",
@@ -469,7 +469,7 @@ window.DILEMMAS.push(
     options: [
       "No. Humanists support the death penalty; only religious people are against it.",
       "Yes. All Christians and all Humanists agree completely about it, and for exactly the same reasons.",
-      "Catholics oppose it only because an innocent person might be executed by mistake.",
+      "Catholics oppose it only because there's a risk an innocent person might be executed by mistake.",
       "Many Humanists oppose it for human rights; Catholics oppose it because all life is sacred."
     ],
     correctIndex: 3,

@@ -27,3 +27,9 @@ No Stage 1 sample dilemmas were dropped. Two areas to watch in later stages:
 
 - **Just War today (3.1).** As planned, *p1s3-just-war-01* tests only the traditional principle that just self-defence is allowed, and that soldiers must refuse clearly evil orders. It makes no claim about modern wars or nuclear deterrence. Pope Francis has questioned whether any modern war can be 'just'. That is a live debate, so it is not tested.
 - **Restorative justice (3.5).** The Catholic Church has no single official position on restorative justice schemes. The dilemma therefore tests the clear principle that reformation is an aim of punishment, with taking part left as the victim's free choice.
+
+## Stage 2: Paper 2
+
+- **'One important Christian' (P2 1.4) and 'one other place' of pilgrimage (P2 2.2).** These are centre choices. I used St Teresa of Calcutta and Lourdes. They are not disputed, but please check that they match what your students study.
+- **Lourdes healings (P2 2.2).** The dilemma tests only clear points: healing is never guaranteed, the water is not magic, and the Church has recognised some cures. Private revelations, such as apparitions, are not matters Catholics are required to believe. The dilemma does not test this, to keep it simple.
+- **Receiving communion in other churches (P1 4.4).** The rare exceptions (for example, danger of death) are not tested. The dilemma tests only the normal rule.

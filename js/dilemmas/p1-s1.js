@@ -156,7 +156,7 @@ window.DILEMMAS.push(
     scene: "My mate has started vaping a lot and eating rubbish all day. When I said it was bad for him, he laughed and said the body is just a shell, and it's only the soul that goes to heaven anyway. Is he right that the body doesn't matter?",
     options: [
       "He's right: the body is only a temporary shell, and it's the soul that really matters to God.",
-      "There's no such thing as a soul; we are just our bodies and brains, nothing more.",
+      "There's no such thing as a soul; we are only our bodies and brains, and nothing more than that.",
       "It's his body and his choice. Faith has nothing to say about health or lifestyle.",
       "We're body and soul together, and the body is a temple of the Holy Spirit, so care for it."
     ],
@@ -211,7 +211,7 @@ window.DILEMMAS.push(
     options: [
       "Souls are reborn in new bodies many times until they become perfect.",
       "When we die, that's simply the end. 'Soul' is just a way of talking about our personality.",
-      "The soul sleeps after death and knows nothing at all until the end of the world.",
+      "The soul simply sleeps after death, and knows nothing at all until the end of the world.",
       "Each person has one unique soul and one earthly life; after death comes God's judgment."
     ],
     correctIndex: 3,
@@ -239,7 +239,7 @@ window.DILEMMAS.push(
     scene: "My mum makes me come to confession, but honestly I'm a good person. I don't steal or hurt anyone. My friends say sin is just an old-fashioned idea to make people feel guilty. Why do I even need to be here?",
     options: [
       "If you've never broken the law, then you haven't really sinned, so you don't need confession at all.",
-      "Sin is just an old idea. Feeling guilty is the only real problem, so try not to worry.",
+      "Sin is just an old-fashioned idea. Feeling guilty is the only real problem, so try not to worry.",
       "Everyone sins, even good people. Confession heals our friendship with God and helps us grow.",
       "Only confess big sins. Small ones like unkindness don't matter to God at all."
     ],
@@ -266,7 +266,7 @@ window.DILEMMAS.push(
     scene: "At work, everyone adds a bit extra to their travel expenses: an extra few miles, a lunch that was really for family. My manager says the company expects it and it's basically a perk. I've started doing it too. It's only small amounts. Is it really a sin?",
     options: [
       "Small amounts don't really matter. A big company won't even notice, so it isn't actually stealing.",
-      "It's only wrong if you get caught, so be careful and keep the claims believable.",
+      "It's only really wrong if you get caught, so be careful and keep all your claims believable.",
       "Being a bit greedy is natural, and it's what drives business. Everyone does it.",
       "It's stealing, even if everyone does it. Greed puts money before God and people. Be honest."
     ],
@@ -378,7 +378,7 @@ window.DILEMMAS.push(
       "If God already knows what you'll do, your choices are fixed, so you aren't really responsible.",
       "God deliberately chooses not to know the future, so that people can stay free.",
       "God knowing your choices doesn't cause them. You still choose freely and are responsible.",
-      "Free will only matters for big decisions. God controls all the small, everyday ones."
+      "Free will only matters for the big decisions in life. God controls all the small, everyday ones."
     ],
     correctIndex: 2,
     feedbackCorrect: "Catholics believe God is **omniscient** (all-knowing) and exists outside time, seeing all of history at once. Knowing something will happen is not the same as making it happen. So we still have real **free will** and are **responsible** for our choices.",
@@ -401,7 +401,7 @@ window.DILEMMAS.push(
     level: 2,
     look: { age: "teen", hair: "ponytail", accessory: "satchel" },
     mood: "worried",
-    penitent: "Grace, Year 10 student",
+    penitent: "Ines, Year 10 student",
     scene: "My best friend is Muslim. She asked me, really kindly, how Christians can say there is only one God if we pray to the Father, Jesus and the Holy Spirit. I tried to explain, but I got muddled. What should I say?",
     options: [
       "There are three separate gods who always agree and work together as a team.",
@@ -460,7 +460,7 @@ window.DILEMMAS.push(
     options: [
       "God can do anything and loves you, but he works with your efforts. Pray, and revise too!",
       "Yes. If you pray hard enough and have enough faith, God has to give you what you ask for.",
-      "God is far too busy running the universe to care about small things like your tests.",
+      "God is far too busy running the whole universe to care about small things like your tests.",
       "God made the world and then stepped back. He doesn't get involved in our lives now."
     ],
     correctIndex: 0,
@@ -490,7 +490,7 @@ window.DILEMMAS.push(
       "Doubting is a serious sin. Push those thoughts away and never ask any questions about your faith.",
       "Questions are part of growing in faith. Keep praying, talk them through and keep coming to Mass.",
       "If you have doubts, faith obviously isn't for you. Stop pretending and be honest with yourself.",
-      "Belief doesn't really matter anyway. As long as you're a kind person, nothing else counts."
+      "Belief doesn't really matter anyway. As long as you're a kind person, nothing else really counts."
     ],
     correctIndex: 1,
     feedbackCorrect: "Catholics see faith as a journey, and honest **questions** can help it grow: 'faith seeking understanding'. Many saints went through times of **uncertainty**. Keep praying, keep coming to Mass, and talk your questions through with someone you trust.",
@@ -515,7 +515,7 @@ window.DILEMMAS.push(
     scene: "My wife and I had Ana baptised, but now we're not sure what to do next. My brother says we shouldn't influence her at all. He says we should let her choose a religion herself when she's eighteen. Is he right?",
     options: [
       "Yes. Don't influence her at all; let her choose for herself when she is an adult.",
-      "Leave faith to her Catholic school later on. Teaching religion is the school's job.",
+      "Leave faith to her Catholic school later on. Teaching religion is really the school's job, not yours.",
       "You're her first teachers of faith: pray together, come to Mass, and welcome her questions.",
       "Make her follow every rule strictly. Asking questions about faith is just a sign of weakness."
     ],
@@ -573,7 +573,7 @@ window.DILEMMAS.push(
       "Your cousin is right: disasters like this are God's way of punishing places full of sinful people.",
       "God doesn't send disasters as punishment. Pray for the people affected and help them if you can.",
       "It proves that God either doesn't exist or doesn't care about people.",
-      "It's just bad luck. There's nothing anyone can do, so it's best not to think about it."
+      "It's just bad luck. There's nothing anyone can really do, so it's best not to think about it at all."
     ],
     correctIndex: 1,
     feedbackCorrect: "An earthquake is an example of **natural evil**: suffering caused by nature, not by human choices. Catholics believe God does not send disasters as punishment (Luke 13:1-5), and the world is still 'on a journey' towards its perfection. Christians respond with prayer and practical help, and this is one way God's love reaches people in need.",
@@ -600,7 +600,7 @@ window.DILEMMAS.push(
       "God made those people break in. It was part of his plan for your life.",
       "God is not strong enough to stop every evil. He tries his best, but sometimes bad people still win.",
       "God gave people free will so they can truly love, but that means they can also choose evil.",
-      "Evil isn't really real. 'Good' and 'bad' are just opinions that people have."
+      "Evil isn't really real. 'Good' and 'bad' are just opinions that different people happen to have."
     ],
     correctIndex: 2,
     feedbackCorrect: "This is **moral evil**: suffering caused by human choices. Catholics believe God gave people **free will** so that love can be real, but this means people can also choose to do wrong. God does not want evil, but he respects our freedom, and he can bring good out of even bad situations.",

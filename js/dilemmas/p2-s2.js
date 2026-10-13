@@ -100,7 +100,7 @@ window.DILEMMAS.push(
     level: 2,
     look: { age: "child", hair: "afro", accessory: "none" },
     mood: "hopeful",
-    penitent: "Kofi, Year 7 altar server",
+    penitent: "Felipe, Year 7 altar server",
     scene: "On 6 January Father wrote chalk letters over our church door, and my nan said it was for Epiphany. My friend says Epiphany is just the day you have to take the decorations down. What are we actually celebrating?",
     options: [
       "It's the day when the shepherds visited the stable after the angels had told them the news.",
@@ -154,7 +154,7 @@ window.DILEMMAS.push(
     level: 1,
     look: { age: "teen", hat: "schoolcap", accessory: "satchel" },
     mood: "hopeful",
-    penitent: "Daniel, Year 8 student",
+    penitent: "Oliver, Year 8 student",
     scene: "My little brother thinks Christmas is the most important Christian festival because of the presents. My teacher says Easter is more important. And some kids think Easter is just about chocolate eggs and bunnies. Who's right?",
     options: [
       "Christmas is more important, because Jesus' birth came first and is the start of everything.",
@@ -243,7 +243,7 @@ window.DILEMMAS.push(
       "If your faith is strong enough, you are guaranteed to be cured when you visit Lourdes.",
       "It's all superstition. Miracles don't happen, so there's no point going at all.",
       "The water itself has magical powers to cure people, whatever they believe.",
-      "Go with hope and an open heart. A few are cured, but many receive peace and strength."
+      "Go with hope. Few are cured, but many find peace and strength there."
     ],
     correctIndex: 3,
     feedbackCorrect: "In 1858, St **Bernadette** said that Mary appeared to her at **Lourdes** in France, and it became a great place of **pilgrimage**, especially for the sick. The Church has recognised a small number of cures as miracles, but most pilgrims find spiritual healing: peace, hope and strength to live with illness. Many also find joy in helping and being helped by others.",

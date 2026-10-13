@@ -78,7 +78,7 @@ window.DILEMMAS.push(
     options: [
       "Jesus only mixed with sinners so that he could tell them off and make them change.",
       "Jesus welcomed outcasts to show God's love for all. Follow him: include those left out.",
-      "Jesus' ministry was mainly about leading a political revolution against the Romans.",
+      "Jesus' ministry was mainly about leading a political revolution against the Roman rulers.",
       "Those stories were probably made up to make Jesus look good, so don't take them too seriously."
     ],
     correctIndex: 1,
@@ -189,7 +189,7 @@ window.DILEMMAS.push(
     scene: "My friend says Catholics believe the pope can never be wrong about anything, even what he thinks about football. My Baptist cousin says no human leader has any real authority over Christians. What do Catholics actually believe about the pope?",
     options: [
       "Everything the pope says is without error, even his opinions about football and the weather.",
-      "He leads the Church, but is infallible only when he solemnly defines faith or morals.",
+      "He leads the Church, but is infallible only in rare, solemn teachings.",
       "The pope is just a figurehead, with no real authority over what Catholics believe.",
       "Only the Bible has authority. No human leader can teach for the whole Church."
     ],
@@ -273,7 +273,7 @@ window.DILEMMAS.push(
     options: [
       "Saints are a bit like minor gods, who can answer people's prayers in God's place.",
       "Praying to saints is wrong. Christians should only ever pray to God directly.",
-      "Catholics honour saints as examples and ask them to pray for us, as friends do.",
+      "Catholics honour saints and ask them to pray for us, as friends do.",
       "She's a saint mainly because she was famous and won the Nobel Peace Prize."
     ],
     correctIndex: 2,

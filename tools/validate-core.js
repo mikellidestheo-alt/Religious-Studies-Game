@@ -162,7 +162,27 @@
       }
     });
 
+    // How the correct option ranks by length among the four (0 = longest).
+    // If one rank dominates, players could learn to guess by length.
+    var lengthRank = [0, 0, 0, 0];
+    (dilemmas || []).forEach(function (d) {
+      if (!d || !Array.isArray(d.options) || d.options.length !== 4 || typeof d.correctIndex !== 'number') { return; }
+      var c = String(d.options[d.correctIndex]).length;
+      var r = d.options.filter(function (o) { return String(o).length > c; }).length;
+      lengthRank[r]++;
+    });
+    var counted = lengthRank[0] + lengthRank[1] + lengthRank[2] + lengthRank[3];
+    if (counted >= 12) {
+      lengthRank.forEach(function (n, r) {
+        if (r > 0 && n / counted > 0.45) {
+          warnings.push('length pattern: the correct option is ' + ['', '2nd longest', '3rd longest', 'shortest'][r] +
+            ' in ' + n + ' of ' + counted + ' dilemmas; vary option lengths so players cannot guess by length');
+        }
+      });
+    }
+
     return {
+      lengthRank: lengthRank,
       total: (dilemmas || []).length,
       errors: errors,
       warnings: warnings,
@@ -188,6 +208,11 @@
     result.errors.forEach(function (e) { lines.push('  x ' + e); });
     lines.push('Warnings: ' + result.warnings.length);
     result.warnings.forEach(function (w) { lines.push('  ! ' + w); });
+    if (result.lengthRank) {
+      lines.push('');
+      lines.push('Correct option by length: longest (tied) ' + result.lengthRank[0] + ', 2nd ' + result.lengthRank[1] +
+        ', 3rd ' + result.lengthRank[2] + ', shortest ' + result.lengthRank[3] + '  (aim for an even spread)');
+    }
     lines.push('');
     lines.push('COVERAGE (target: ' + target + ' per topic)');
     var gaps = 0;
