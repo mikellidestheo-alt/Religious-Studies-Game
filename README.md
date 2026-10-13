@@ -69,7 +69,7 @@ CLAUDE.md               Project rules for future editing sessions
    - a valid `specRef` for the paper and section
    - a scene of 60 words or fewer, and options of about 20 words or fewer
    - no duplicate ids
-   - a correct option that is **not** the longest option
+   - a correct option that is **not** the longest option (it also reports where the correct option ranks by length, and warns if one position dominates)
    - a view note for every wrong option
    - balanced `**bold**` markers
 
