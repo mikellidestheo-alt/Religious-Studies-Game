@@ -70,3 +70,15 @@ Scripture references give the book, chapter and verse only. Wording in feedback 
 - [ ] **p1s4-ecumenism-communion-01**: CCC 1400 (Eucharistic intercommunion with Reformation communities is not possible). Sharing communion in rare, exceptional cases (for example, danger of death) is not mentioned. The note that 'many Anglicans welcome all baptised Christians to communion' is a generalisation.
 - [ ] **p1s4-mixed-faith-marriage-01**: CCC 1633-1637 (mixed marriages and 'disparity of cult'). Permission is properly called a 'dispensation'. The Catholic partner's promise is to do all they can to have children baptised and raised Catholic (canon 1125). The game words this simply.
 - [ ] Other references used: Galatians 3:28; Revelation 7:9; Matthew 25:31-46; James 2:15-16; Amos 5:24; John 17:21; CCC 820-821, 830-831, 2443-2449. Nothing is quoted directly.
+
+## Stage 2: Paper 2 Section 1
+
+- [ ] **Choice of 'one important Christian' (spec 1.4).** I chose **St Teresa of Calcutta** (Mother Teresa) for all three 1.4 dilemmas. The specification lets centres choose; if your course studies someone else (for example St Paul or St Peter), these three dilemmas will need replacing.
+- [ ] **p2s1-teresa-saints-01** and **p2s1-teresa-example-01**: facts used: she founded the Missionaries of Charity in 1950 in Kolkata (Calcutta), won the Nobel Peace Prize in 1979 and was canonised in 2016. The phrase 'the poorest of the poor' is commonly attributed to her.
+- [ ] **p2s1-teresa-darkness-01**: her long experience of spiritual darkness became known through letters published after her death (the 2007 collection *Come Be My Light*). The term 'dark night' (from St John of the Cross) is used loosely.
+- [ ] **p2s1-incarnation-01**: the Council of Chalcedon (451) defined Christ's two natures. 'Docetism' and 'adoptionism' are named in the wrong-option notes. Check CCC 464-469.
+- [ ] **p2s1-bible-books-01**: Catholic Bible: 73 books (46 Old Testament, 27 New Testament); Protestant Bible: 66 books (39 Old Testament). The seven deuterocanonical books are Tobit, Judith, 1 and 2 Maccabees, Wisdom, Sirach and Baruch, plus additions to Esther and Daniel.
+- [ ] **p2s1-bible-interpretation-01**: Dei Verbum (1965), paragraphs 11-12 (inspiration; literary forms). Check CCC 105-119.
+- [ ] **p2s1-pope-infallibility-01**: the First Vatican Council (1870) defined papal infallibility. Check CCC 891.
+- [ ] **p2s1-bishops-priests-01**: Catholic bishops are appointed by the pope. The wrong-option note about governments choosing bishops does not name any country. In the Church of England, the Crown formally appoints bishops; this could confuse students, so the wording avoids it.
+- [ ] Other references used: John 1:1-14; Mark 1:40-42; Mark 2:15-17; Luke 19:1-10; John 18:36; 1 Corinthians 15:3-14; Luke 24:36-43; 2 Timothy 3:16; Matthew 16:18-19; 1 Corinthians 12:4-27; Matthew 25:40; 1 Corinthians 13:1-3; Mark 15:34; CCC 120, 138, 638-647, 861-862, 881-882, 897-900, 956-957, 1555-1568, 2683, 2731.
