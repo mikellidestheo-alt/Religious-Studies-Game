@@ -82,3 +82,13 @@ Scripture references give the book, chapter and verse only. Wording in feedback 
 - [ ] **p2s1-pope-infallibility-01**: the First Vatican Council (1870) defined papal infallibility. Check CCC 891.
 - [ ] **p2s1-bishops-priests-01**: Catholic bishops are appointed by the pope. The wrong-option note about governments choosing bishops does not name any country. In the Church of England, the Crown formally appoints bishops; this could confuse students, so the wording avoids it.
 - [ ] Other references used: John 1:1-14; Mark 1:40-42; Mark 2:15-17; Luke 19:1-10; John 18:36; 1 Corinthians 15:3-14; Luke 24:36-43; 2 Timothy 3:16; Matthew 16:18-19; 1 Corinthians 12:4-27; Matthew 25:40; 1 Corinthians 13:1-3; Mark 15:34; CCC 120, 138, 638-647, 861-862, 881-882, 897-900, 956-957, 1555-1568, 2683, 2731.
+
+## Stage 2: Paper 2 Section 2
+
+- [ ] **Choice of 'one other place' of pilgrimage (spec 2.2).** I chose **Lourdes**. If your course uses a different place (for example Walsingham or Rome), *p2s2-lourdes-01* will need replacing.
+- [ ] **p2s2-lourdes-01**: St Bernadette's visions at Lourdes in 1858. The Church has officially recognised a small number of cures as miracles (about 70, though the exact number changes). The feedback deliberately gives no number.
+- [ ] **p2s2-jerusalem-01**: the claim that the Stations of the Cross developed so that people could follow Jesus' journey without travelling to Jerusalem is general knowledge and simplified.
+- [ ] **p2s2-epiphany-01**: chalking the door at Epiphany is a traditional house blessing in many countries. It may be unfamiliar in some parishes.
+- [ ] **p2s2-easter-01**: the Ascension is celebrated forty days after Easter (Acts 1:3). Some countries move it to the following Sunday.
+- [ ] **p2s2-advent-01**: Advent is the four weeks before Christmas and the start of the liturgical year.
+- [ ] Other references used: Isaiah 9:2-7; Luke 2:1-20; Matthew 2:1-12; Mark 11:1-11; Mark 14-16; John 19:16-42; 1 Corinthians 15:3-4; James 5:14-15; CCC 524-528, 1168-1169, 2691.
