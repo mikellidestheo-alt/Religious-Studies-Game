@@ -31,4 +31,4 @@ Scripture references give the book, chapter and verse only. Wording in feedback 
 - [ ] **p1s1-doubt-01**: CCC 2088 (voluntary and involuntary doubt) and CCC 162 (perseverance in faith).
 - [ ] **p1s1-unbelief-01**: CCC 847 (those who, through no fault of their own, do not know Christ). The wording is a simplification.
 - [ ] **p1s1-freewill-fate-01**: Sirach 15:14-15 (God left humans in the power of their own free choice). This book is in Catholic Bibles but not in most Protestant ones.
-- [ ] Other references used: Genesis 1:27; 2:7; Luke 12:15; Luke 13:1-5; Luke 15:11-32; Romans 3:23; 1 Timothy 2:4; Psalm 139:1-4; Matthew 10:29-31; Matthew 28:19; Mark 9:24; Hebrews 9:27; Exodus 20:15; 1 Corinthians 6:19-20. The game gives these references only; it does not quote them.
+- [ ] Other references used: Genesis 1:27; 2:7; Luke 12:15; Luke 13:1-5; Luke 15:11-32; Romans 3:23; 1 Timothy 2:4; Psalm 139:1-4; Matthew 10:29-31; Matthew 28:19; Mark 9:24; Hebrews 9:27; Exodus 20:15; 1 Corinthians 6:19-20. The game gives these references only. The short phrase "temple of the Holy Spirit" (1 Corinthians 6:19) is common to most English translations; nothing else is quoted.

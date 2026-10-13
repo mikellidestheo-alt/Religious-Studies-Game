@@ -327,7 +327,7 @@ window.DILEMMAS.push(
       "God doesn't know what you'll choose. He just waits to see what happens, like everyone else."
     ],
     correctIndex: 1,
-    feedbackCorrect: "Catholics believe God 'desires everyone to be saved' (1 Timothy 2:4) and gives **grace** to all. Humans have **free will** to accept or reject God's love, so our choices really matter. The Church teaches that God **predestines** no one to hell.",
+    feedbackCorrect: "Catholics believe God wants everyone to be saved (1 Timothy 2:4) and gives **grace** to all. Humans have **free will** to accept or reject God's love, so our choices really matter. The Church teaches that God **predestines** no one to hell.",
     feedbackWrong: "Catholic teaching says God wants all people to be saved (1 Timothy 2:4) and offers everyone **grace**. We have real **free will** to respond, so trying to be good matters. The Church rejects the idea that God **predestines** anyone to hell.",
     keyTerms: ["Predestination", "Free will", "Grace", "Salvation"],
     viewsRepresentedByWrongOptions: [
